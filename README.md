@@ -7,4 +7,4 @@ The app operates entirely on-device and uses Apple’s Screen Time and system fr
 MindfulSocial does not access, transmit, or retain personal information, browsing data, or usage data outside of what is handled by Apple’s operating system.
 
 If you have questions about this privacy policy, you may contact:
-support@mindfulsocial.app
+Greyson@burgin.com
